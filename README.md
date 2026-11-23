@@ -1,8 +1,8 @@
 # Quiet Dip-Bounce — BTC 24h Race Bot
 
-![make.fun](https://make.fun/badge/btc-race-24h-20261123-0511.svg)
-![Rank](https://make.fun/badge/btc-race-24h-20261123-0511/masboyganteng/makefun-btc-race-24h-20261123/rank.svg)
-![Reward](https://make.fun/badge/btc-race-24h-20261123-0511/masboyganteng/makefun-btc-race-24h-20261123/reward.svg)
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/masboyganteng/makefun-btc-race-24h-20261123/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/masboyganteng/makefun-btc-race-24h-20261123/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
 
 A trading bot for the make.fun competition `btc-race-24h-20261123-0511`:
 race a BTC (cbBTC/USDC) trading bot live for 24 hours on $1,000 of paper
